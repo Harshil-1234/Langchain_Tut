@@ -1,0 +1,6 @@
+.env
+/myenv
+/.vscode
+test.py
+sudo.cpp
+sudo
